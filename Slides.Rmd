@@ -1,0 +1,32 @@
+---
+title: "R Application Course Project"
+author: "Hazem Haffouz"
+date: "2024-01-12"
+output: ioslides_presentation
+---
+## Introduction
+- **Name:**: Car Data Analysis
+- **Purpose**: Interactive tool for exploring and analyzing car datasets.
+- **Target Audience**: Students, educators, and researchers.
+- **Objective**: Enhance understanding of car data through dynamic visualizations.
+
+## Features and Implementation
+
+- **Key Features**:
+- **Dynamic Plot Generation**: Customizable plots based on user selection.
+- **Data Filtering**: Interactive options to filter data (MPG, cylinders, etc.).
+- **Real-time Visualization**: Immediate updates reflecting user interactions.
+- **Technical Implementation**:
+- **Data Sources**: Includes comprehensive datasets like mtcars.
+- **R Packages**: Built using `ggplot2` for plotting and `shiny` for interactivity.
+- **Design**: User-friendly UI with robust server-side processing. 
+
+## Demonstration 
+
+- **Interactive Demo**: Showcasing app capabilities.
+- **Usage Scenarios**: Examples like comparing fuel efficiency across models.
+- **Visuals**: Screenshots of the app's features and outputs.
+- **Accessibility**: App available online for wide accessibility.
+- **Feedback and Improvement**: Suggestions for enhancements welcome.
+- **Contact**: [hanz2hhaff@gmail.com]
+Explore the app: [https://t71edn-hazem-haffouz.shinyapps.io/application_course_project/]
